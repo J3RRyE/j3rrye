@@ -1,5 +1,8 @@
-## Hi there 👋
+## I'm j3rrye - student at MIPT, intern at Kaspersky lab and CEO (hahaha) of Jerry'Space
 
+- 🔭 I’m currently working on Jerry'Space products
+- 🌱 I’m currently learning networks, computer architecture and cybersecurity
+- 📫 How to reach me: tg - [@uuntermensch](t.me/uuntermensch), web - [j3rrye.ru](https://j3rrye.ru)
 <!--
 **J3RRyE/j3rrye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
